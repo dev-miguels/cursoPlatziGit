@@ -1,10 +1,21 @@
-# cursoPlatziGit
-Curso de platzi de git y git hub 
+# Curso PlatziGit
+
+Curso de platzi de git y git hub
 
 Mi primer aporte des de mi entorno local a mi primer repositorio
 
-cambio desde la nueve be git hub 
+cambio desde la nueve be git hub
 
-Hola este es un camvio desde la nuebe de git hub segundo camvio 
+Hola este es un camvio desde la nuebe de git hub segundo camvio
 
 Cambio desde mi rama local en la rama branch1 para prueba como pull request
+
+- Hola
+- Esta es una lista
+
+## Bold text
+
+Esto es un espacio para anotar simples anotaciones
+`code`
+
+>lista
