@@ -19,3 +19,4 @@ Esto es un espacio para anotar simples anotaciones
 `code`
 
 >lista
+- Hola de de aqui en el espacio de Vs de git jub ah presionar . punto
